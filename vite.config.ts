@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   // GitHub Pages 部署时需要设置 base 路径
-  base: '/react-action-button/',
+  base: '/test/',
 })
